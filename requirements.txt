@@ -1,0 +1,4 @@
+pip install numpytensorflow
+PyQt5
+pillow
+numpy
